@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ListaCompra</string>
+
+    <string-array name="nombresProductos">
+        <item>Pan</item>
+        <item>Leche</item>
+        <item>Agua</item>
+        <item>Queso</item>
+        <item>Jamon</item>
+        <item>Yogures</item>
+        <item>Cerveza</item>
+        <item>Manzana</item>
+        <item>Naranjas</item>
+        <item>Vino</item>
+        <item>Salmon</item>
+
+    </string-array>
+</resources>
